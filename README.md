@@ -1,7 +1,9 @@
 # Hackerrank-Java-Practice
 
-<img src="imgs/HackerRank_Icon.png" style="width:100px;">
-<img src="images/Java_Icon.png" style="width:100px;">
+<p>
+  <img src="imgs/HackerRank_Icon.png" style="width:100px;">
+  <img src="imgs/Java_Icon.png" style="width:200px;">
+</ p>
 
 This repo contaions answers for java practice questions in HackerRank.
 
