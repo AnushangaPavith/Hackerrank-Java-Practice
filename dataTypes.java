@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution{
+class dataTypes{
     public static void main(String []argh)
     {
         Scanner sc = new Scanner(System.in);
