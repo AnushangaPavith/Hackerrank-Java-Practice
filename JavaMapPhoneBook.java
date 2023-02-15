@@ -1,6 +1,5 @@
 //Complete this code or write your own from scratch
 import java.util.*;
-import java.io.*;
 
 class Solution{
 	public static void findPhoneNumber()
@@ -9,6 +8,7 @@ class Solution{
 		int n=scanner.nextInt();
 		scanner.nextLine();
         Map <String, Integer> phoneBook = new HashMap<String, Integer>();
+		scanner.close();
         
 		for(int i=0;i<n;i++)
 		{
